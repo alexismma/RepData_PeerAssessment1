@@ -1,4 +1,7 @@
-
+---
+title: "Reproducible Research: Peer Assessment 1"
+output: md_document  
+--- 
 ``` {r}
 ###Set to show R code.
 library(knitr)
